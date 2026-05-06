@@ -39,7 +39,14 @@ export async function generateMetadata({
     creator: siteConfig.name,
     metadataBase: new URL(`https://${siteConfig.domain}`),
     alternates: {
-      canonical: `/${locale}`,
+      canonical: `https://${siteConfig.domain}/${locale}`,
+      languages: {
+        'nl': `https://${siteConfig.domain}/nl`,
+        'en': `https://${siteConfig.domain}/en`,
+        'fr': `https://${siteConfig.domain}/fr`,
+        'de': `https://${siteConfig.domain}/de`,
+        'x-default': `https://${siteConfig.domain}/nl`,
+      },
     },
     openGraph: {
       type: "website",
