@@ -1,0 +1,66 @@
+{
+  "navigation": {
+    "features": "Features",
+    "pricing": "Pricing",
+    "faq": "FAQ",
+    "buyNow": "Order Now"
+  },
+  "hero": {
+    "badge": "#1 IPTV Provider in Europe",
+    "title1": "Bring The Cinema &",
+    "title2": "Stadium Home.",
+    "subtitle": "Watch your favorite channels, movies, and live sports in 4K/FHD quality. No buffering, no stuttering, just perfect picture.",
+    "ctaPrimary": "Order Now",
+    "ctaSecondary": "View Plans",
+    "rating": "Rated 4.9/5 by 10,000+ customers",
+    "tvChannels": "TV Channels",
+    "antiBuffer": "Anti-Buffer",
+    "servers": "EU Servers"
+  },
+  "pricing": {
+    "title": "Choose Your Plan",
+    "subtitle": "No hidden fees, pay securely and enjoy instantly.",
+    "singleScreen": "1 Screen",
+    "multiScreen": "Multi-Screen",
+    "buyNow": "Order Now",
+    "mostChosen": "Most chosen",
+    "bestValue": "Best value",
+    "mostFlexible": "Most flexible",
+    "multiScreenBadge": "Multi-screen",
+    "months": "Months",
+    "devices": "devices",
+    "bonus1": "+1 month free",
+    "bonus3": "+3 months free",
+    "monthly": "/mo",
+    "totalMonths": "months total",
+    "normalPrice": "Normal",
+    "only": "Only",
+    "for": "For",
+    "urgency": "Many orders today · prevent price increase",
+    "paymentMethods": "Credit Card • PayPal • Crypto",
+    "subtextBonus": "Best monthly price + free extra months",
+    "subtextDirect": "Active instantly after payment",
+    "features": [
+      "35,000+ International TV Channels",
+      "179,000+ movies & series on-demand",
+      "SD/HD/FHD/4K/UHD Picture Quality",
+      "Anti-buffer EU servers (stable)",
+      "99.99% Stability",
+      "TV Replay & EPG guide",
+      "7-day money-back guarantee"
+    ]
+  },
+  "whatsapp": {
+    "hello": "Hello",
+    "newOrder": "NEW ORDER:",
+    "subscription": "Subscription:",
+    "screens": "Screens:",
+    "price": "Price:",
+    "instructions": "Please send me the payment instructions."
+  },
+  "seo": {
+    "title": "Premium IPTV – Best IPTV Service in Europe | 35,000+ Channels",
+    "description": "Watch 35,000+ live TV channels, movies and sports in 4K with zero buffering. Secure payment, instant activation.",
+    "keywords": ["IPTV Europe", "4K IPTV", "Live sport IPTV", "Best IPTV 2025", "IPTV subscription"]
+  }
+}

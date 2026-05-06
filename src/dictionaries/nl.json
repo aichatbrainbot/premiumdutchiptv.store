@@ -1,0 +1,87 @@
+{
+  "navigation": {
+    "features": "Functies",
+    "pricing": "Abonnementen",
+    "faq": "FAQ",
+    "buyNow": "Bestel Nu"
+  },
+  "hero": {
+    "badge": "#1 IPTV Provider in Nederland",
+    "title1": "Haal De Bioscoop &",
+    "title2": "Stadion In Huis.",
+    "subtitle": "Kijk onbeperkt naar je favoriete zenders, films en live sport in 4K/FHD kwaliteit. Geen buffering, geen haperingen, gewoon perfect beeld.",
+    "ctaPrimary": "Bestel Nu",
+    "ctaSecondary": "Bekijk Prijzen",
+    "rating": "Beoordeeld met 4.9/5 door 10.000+ klanten",
+    "tvChannels": "TV Zenders",
+    "antiBuffer": "Anti-Buffer",
+    "servers": "EU Servers"
+  },
+  "pricing": {
+    "title": "Kies Jouw Abonnement",
+    "subtitle": "Geen verborgen kosten, betaal veilig en geniet direct.",
+    "singleScreen": "1 Scherm",
+    "multiScreen": "Meerdere Schermen",
+    "buyNow": "Bestel Nu",
+    "mostChosen": "Meest gekozen",
+    "bestValue": "Beste waarde",
+    "mostFlexible": "Meest flexibel",
+    "multiScreenBadge": "Multi-screen",
+    "months": "Maanden",
+    "devices": "apparaten",
+    "bonus1": "+1 maand gratis",
+    "bonus3": "+3 maanden gratis",
+    "monthly": "/mnd",
+    "totalMonths": "maanden totaal",
+    "normalPrice": "Normaal",
+    "only": "Slechts",
+    "for": "Voor",
+    "urgency": "Veel bestellingen vandaag · voorkom prijsverhoging",
+    "paymentMethods": "iDeal • Bancontact • PayPal",
+    "subtextBonus": "Beste maandprijs + gratis extra maanden",
+    "subtextDirect": "Direct actief na betaling",
+    "features": [
+      "35.000+ Internationale TV-zenders",
+      "179.000+ films & series on-demand",
+      "SD/HD/FHD/4K/UHD Beeldkwaliteit",
+      "Anti-buffer EU servers (stabiel)",
+      "99,99% Stabiliteit",
+      "TV Replay & EPG gids",
+      "7-dagen niet-goed-geld-terug"
+    ]
+  },
+  "whatsapp": {
+    "hello": "Hallo",
+    "newOrder": "NIEUWE BESTELLING:",
+    "subscription": "Abonnement:",
+    "screens": "Schermen:",
+    "price": "Prijs:",
+    "instructions": "Stuur me alstublieft de betaalinstructies."
+  },
+  "features": [
+    "35.000+ Internationale TV-zenders",
+    "179.000+ films & series on-demand",
+    "SD/HD/FHD/4K/UHD Beeldkwaliteit",
+    "Anti-buffer EU servers (stabiel)",
+    "99,99% Stabiliteit",
+    "TV Replay & EPG gids",
+    "7-dagen niet-goed-geld-terug"
+  ],
+  "faq": [
+    {"question": "Hoe werkt de installatie?", "answer": "Volg de stap‑voor‑stap gids in ons support‑gedeelte."},
+    {"question": "Kan ik een gratis proefperiode krijgen?", "answer": "Ja, we bieden een 7‑daagse proefperiode zonder verplichtingen."},
+    {"question": "Welke betaalmethoden worden geaccepteerd?", "answer": "iDeal, Bancontact, PayPal en creditcard."}
+  ],
+  "paymentInfo": "iDeal • Bancontact • PayPal",
+  "contactInfo": {
+    "email": "info@premiumdutchiptv.store",
+    "whatsapp": "+31612345678"
+  },
+  "privacyPolicy": "Hier komt uw privacybeleid tekst. Bescherm uw gegevens volgens de GDPR-richtlijnen.",
+  "terms": "Hier komt uw algemene voorwaarden tekst. Beschrijf de gebruiksvoorwaarden van uw dienst.",
+  "seo": {
+    "title": "Premium IPTV – Beste IPTV in Nederland",
+    "description": "Kijk films, series en live sport in 4K zonder buffering. Veilig betalen en direct genieten.",
+    "keywords": ["IPTV Nederland", "4K IPTV", "Live sport", "Film streaming", "Beste IPTV"]
+  }
+}

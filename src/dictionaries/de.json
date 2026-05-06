@@ -1,0 +1,66 @@
+{
+  "navigation": {
+    "features": "Funktionen",
+    "pricing": "Preise",
+    "faq": "FAQ",
+    "buyNow": "Jetzt Bestellen"
+  },
+  "hero": {
+    "badge": "Deutschlands #1 IPTV Anbieter",
+    "title1": "Holen Sie das Kino &",
+    "title2": "Stadion nach Hause.",
+    "subtitle": "Sehen Sie Ihre Lieblingssender, Filme und Live-Sport in 4K/FHD-Qualität. Kein Puffern, kein Ruckeln, einfach perfektes Bild.",
+    "ctaPrimary": "Jetzt Bestellen",
+    "ctaSecondary": "Preise Ansehen",
+    "rating": "Bewertet mit 4,9/5 von über 10.000 Kunden",
+    "tvChannels": "TV Sender",
+    "antiBuffer": "Anti-Buffer",
+    "servers": "EU Server"
+  },
+  "pricing": {
+    "title": "Wählen Sie Ihren Tarif",
+    "subtitle": "Keine versteckten Gebühren, sicher bezahlen und sofort genießen.",
+    "singleScreen": "1 Bildschirm",
+    "multiScreen": "Mehrere Bildschirme",
+    "buyNow": "Jetzt Bestellen",
+    "mostChosen": "Am beliebtesten",
+    "bestValue": "Bester Preis",
+    "mostFlexible": "Am flexibelsten",
+    "multiScreenBadge": "Multi-Screen",
+    "months": "Monate",
+    "devices": "Geräte",
+    "bonus1": "+1 Monat gratis",
+    "bonus3": "+3 Monate gratis",
+    "monthly": "/monat",
+    "totalMonths": "Monate gesamt",
+    "normalPrice": "Normal",
+    "only": "Nur",
+    "for": "Für",
+    "urgency": "Viele Bestellungen heute · Preiserhöhung vermeiden",
+    "paymentMethods": "Kreditkarte • PayPal • Krypto",
+    "subtextBonus": "Bester monatlicher Preis + Gratismonate",
+    "subtextDirect": "Sofort nach Zahlung aktiv",
+    "features": [
+      "35.000+ internationale TV-Sender",
+      "179.000+ Filme & Serien auf Abruf",
+      "SD/HD/FHD/4K/UHD Bildqualität",
+      "Anti-Buffer EU-Server (stabil)",
+      "99,99% Stabilität",
+      "TV Replay & EPG Guide",
+      "7-Tage-Geld-zurück-Garantie"
+    ]
+  },
+  "whatsapp": {
+    "hello": "Hallo",
+    "newOrder": "NEUE BESTELLUNG:",
+    "subscription": "Abonnement:",
+    "screens": "Bildschirme:",
+    "price": "Preis:",
+    "instructions": "Bitte senden Sie mir die Zahlungsanweisungen."
+  },
+  "seo": {
+    "title": "Premium IPTV – Bester IPTV-Dienst in Europa | 35.000+ Sender",
+    "description": "Sehen Sie 35.000+ TV-Sender, Filme und Sport in 4K ohne Puffer. Sicher bezahlen, sofort aktiv.",
+    "keywords": ["IPTV Europa", "4K IPTV", "Live Sport IPTV", "Bestes IPTV 2025", "IPTV Abonnement"]
+  }
+}

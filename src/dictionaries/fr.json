@@ -1,0 +1,66 @@
+{
+  "navigation": {
+    "features": "Fonctionnalités",
+    "pricing": "Tarifs",
+    "faq": "FAQ",
+    "buyNow": "Commander"
+  },
+  "hero": {
+    "badge": "Fournisseur IPTV #1 en Europe",
+    "title1": "Ramenez le Cinéma et",
+    "title2": "le Stade à la Maison.",
+    "subtitle": "Regardez vos chaînes, films et sports en direct préférés en qualité 4K/FHD. Sans coupure, juste une image parfaite.",
+    "ctaPrimary": "Commander",
+    "ctaSecondary": "Voir les Prix",
+    "rating": "Noté 4.9/5 par +10 000 clients",
+    "tvChannels": "Chaînes TV",
+    "antiBuffer": "Anti-Coupure",
+    "servers": "Serveurs EU"
+  },
+  "pricing": {
+    "title": "Choisissez Votre Abonnement",
+    "subtitle": "Pas de frais cachés, payez en toute sécurité.",
+    "singleScreen": "1 Écran",
+    "multiScreen": "Multi-Écrans",
+    "buyNow": "Commander",
+    "mostChosen": "Le plus choisi",
+    "bestValue": "Meilleure valeur",
+    "mostFlexible": "Le plus flexible",
+    "multiScreenBadge": "Multi-écrans",
+    "months": "Mois",
+    "devices": "appareils",
+    "bonus1": "+1 mois gratuit",
+    "bonus3": "+3 mois gratuits",
+    "monthly": "/mois",
+    "totalMonths": "mois au total",
+    "normalPrice": "Normal",
+    "only": "Seulement",
+    "for": "Pour",
+    "urgency": "Beaucoup de commandes aujourd'hui · évitez la hausse",
+    "paymentMethods": "Carte de Crédit • PayPal • Crypto",
+    "subtextBonus": "Meilleur prix mensuel + mois gratuits",
+    "subtextDirect": "Actif instantanément après paiement",
+    "features": [
+      "+35 000 Chaînes TV Internationales",
+      "+179 000 films et séries à la demande",
+      "Qualité d'image SD/HD/FHD/4K/UHD",
+      "Serveurs européens anti-coupure",
+      "Stabilité à 99,99%",
+      "Replay TV et guide EPG",
+      "Garantie satisfait ou remboursé de 7 jours"
+    ]
+  },
+  "whatsapp": {
+    "hello": "Bonjour",
+    "newOrder": "NOUVELLE COMMANDE:",
+    "subscription": "Abonnement:",
+    "screens": "Écrans:",
+    "price": "Prix:",
+    "instructions": "Veuillez m'envoyer les instructions de paiement."
+  },
+  "seo": {
+    "title": "Premium IPTV – Meilleur Service IPTV en Europe | +35 000 Chaînes",
+    "description": "Regardez +35 000 chaînes TV, films et sports en 4K sans coupure. Paiement sécurisé, activation immédiate.",
+    "keywords": ["IPTV Europe", "IPTV 4K", "Sport en direct IPTV", "Meilleur IPTV 2025", "Abonnement IPTV"]
+  }
+}

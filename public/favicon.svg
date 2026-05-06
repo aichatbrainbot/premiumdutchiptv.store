@@ -1,0 +1,31 @@
+<svg width="512" height="512" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Dark OLED Background -->
+  <rect width="24" height="24" rx="4" fill="url(#paint0_linear)" />
+  
+  <!-- Subtle Border Glow -->
+  <rect x="0.5" y="0.5" width="23" height="23" rx="3.5" stroke="#3b82f6" stroke-opacity="0.3" />
+  
+  <!-- Main TV/Play Icon -->
+  <g filter="url(#glow)">
+    <rect x="2" y="7" width="20" height="15" rx="2" ry="2" stroke="#3b82f6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline points="17 2 12 7 7 2" stroke="#3b82f6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  
+  <!-- Definitions -->
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="paint0_linear" x1="0" y1="0" x2="24" y2="24" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0f172a" />
+      <stop offset="1" stop-color="#020617" />
+    </linearGradient>
+    
+    <!-- Neon Glow Filter -->
+    <filter id="glow" x="-2" y="-2" width="28" height="28" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="1" result="effect1_foregroundBlur"/>
+      <feMerge>
+        <feMergeNode in="effect1_foregroundBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+</svg>
