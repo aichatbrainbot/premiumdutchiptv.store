@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { Tv } from "lucide-react";
+import NextImage from "next/image";
 import { siteConfig } from "@/config/site";
 
 export function Footer({ dict, lang }: { dict?: Record<string, string>; lang?: string }) {
@@ -44,6 +45,14 @@ export function Footer({ dict, lang }: { dict?: Record<string, string>; lang?: s
             <li><a href={`mailto:${siteConfig.contact.email}`} className="hover:text-blue-400 transition-colors">Email: {siteConfig.contact.email}</a></li>
             <li><a href={siteConfig.links.whatsapp} target="_blank" rel="noopener noreferrer" className="hover:text-blue-400 transition-colors">WhatsApp Support (24/7)</a></li>
           </ul>
+          <div className="mt-8 pt-6 border-t border-slate-800">
+            <span className="text-sm text-slate-500 font-medium uppercase tracking-wider block mb-3">100% Veilig Betalen</span>
+            <div className="bg-white/90 hover:bg-white transition-colors py-1.5 px-3 rounded-lg w-fit inline-block">
+              <div className="relative w-[180px] h-6">
+                <NextImage src="/payment-methods.png" alt="Payment Methods" fill className="object-contain object-left" sizes="(max-width: 768px) 100vw, 200px" />
+              </div>
+            </div>
+          </div>
         </div>
       </div>
       <div className="container mx-auto px-4 mt-12 pt-8 border-t border-slate-800 text-center text-slate-500">

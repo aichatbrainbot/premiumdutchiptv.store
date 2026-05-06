@@ -6,6 +6,7 @@ import { Check, CreditCard } from "lucide-react";
 import { buttonVariants } from "@/components/ui/button";
 import { siteConfig } from "@/config/site";
 import { FadeInUp, StaggerContainer, StaggerItem } from "@/components/animations/MotionWrappers";
+import NextImage from "next/image";
 
 type Plan = {
   name: string;
@@ -121,9 +122,13 @@ export function PricingSection({ dict, whatsappDict, lang }: { dict?: any; whats
                   {dict?.buyNow || "Bestel Nu"}
                 </a>
                 <p className="text-center text-sm text-slate-400">{plan.bonus ? (dict?.subtextBonus || "Beste maandprijs + gratis extra maanden") : (dict?.subtextDirect || "Direct actief na betaling")}</p>
-                <div className="flex items-center justify-center gap-2 pt-4 border-t border-slate-800">
-                  <CreditCard className="h-5 w-5 text-slate-500" />
-                  <span className="text-xs text-slate-500 font-medium uppercase tracking-wider">{dict?.paymentMethods || "iDeal • Bancontact • PayPal"}</span>
+                <div className="flex flex-col items-center justify-center gap-2 pt-4 border-t border-slate-800">
+                  <span className="text-xs text-slate-500 font-medium uppercase tracking-wider mb-2">{dict?.securePayment || "100% Veilig Betalen"}</span>
+                  <div className="bg-white/90 hover:bg-white transition-colors py-1.5 px-3 rounded-lg w-full max-w-[240px] shadow-sm">
+                    <div className="relative w-full h-7">
+                      <NextImage src="/payment-methods.png" alt="Veilig Betalen" fill className="object-contain" sizes="(max-width: 768px) 100vw, 300px" />
+                    </div>
+                  </div>
                 </div>
                 <div className="flex items-center justify-center gap-2 mt-2">
                   <span className="flex h-2 w-2 rounded-full bg-green-500 animate-pulse" />
